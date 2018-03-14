@@ -1,0 +1,19 @@
+/**/target/
+/*/target/
+/*/*/target/
+/**/*.iml
+/**/.idea/
+/**/.DS_Store
+/**/.settings/
+/**/.project
+/**/.classpath
+/**/.externalToolBuilders/
+*.prefs
+*.classpath
+*.project
+.settings/
+proguard/
+logs
+ *.class
+ /**/overlays/org.apereo.cas.cas-overlay-1.0/
+ /**/overlays/org.apereo.cas.cas-overlay-1.0.info
